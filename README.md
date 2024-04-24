@@ -1,2 +1,2 @@
 # UDTJ
-Umumiy dasturlash teoriyasiga javoblar https://shorturl.at/iCIZ1
+Umumiy dasturlash teoriyasiga javoblar
