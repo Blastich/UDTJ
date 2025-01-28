@@ -1,1 +1,7 @@
 )-dars: Tarix. javoblar yo'q.
+
+1-dars. Kompyuter(CPU) 0 va 1 iterpretatsiya qiladi, bu Machine tili. Har bir CPU(Central Proccersor Unit) o'zini tili 0 va birlar bol'lgani
+va har -xil bo'gani uchun nisobatan tshunarliroq Machine tili Assembler chiqgan. Lekin har-xil CPU lar bo'gani uchun ularni ham Asseblerlari har-xil
+shuning uchun CPU turiga va uning Asseblerini ustiga Yuoqrirqo Tillar da ishlash va unversal bo'ishi uchun C/Rust yani Quyi inson tiliga yaqin tillar chiqgan.
+Java unversal til, uning JVM - Java Virtuall Machine si bor. yani u qayeda o'enatilsa o'sha yerda O'zining Virtual machinesni ichida Ishlaydi.
+Java har qanday joyda ishlashi uchun unga JVMni inttllyatori kerak.
