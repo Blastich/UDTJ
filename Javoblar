@@ -1,4 +1,4 @@
-)-dars: Tarix. javoblar yo'q.
+0 -dars: Tarix. javoblar yo'q.
 
 1-dars. Kompyuter(CPU) 0 va 1 iterpretatsiya qiladi, bu Machine tili. Har bir CPU(Central Proccersor Unit) o'zini tili 0 va birlar bol'lgani
 va har -xil bo'gani uchun nisobatan tshunarliroq Machine tili Assembler chiqgan. Lekin har-xil CPU lar bo'gani uchun ularni ham Asseblerlari har-xil
